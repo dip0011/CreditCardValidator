@@ -1,4 +1,4 @@
-# CON10T
+# CreditCardValidator
 
 ## TechStack
 
@@ -10,7 +10,7 @@ Tools: VsCode, Chrome, Github
 
 ## Live Project
 
-Demo: [Click Here](https://pages.github.com/)
+Demo: [Click Here]([https://pages.github.com/](https://creditcardvalidator.vercel.app/))
 
 
 ## Available Scripts for Project Run
